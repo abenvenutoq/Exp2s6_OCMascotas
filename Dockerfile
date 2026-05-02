@@ -25,5 +25,3 @@ ENV TNS_ADMIN=/ocmascotas/wallet
 EXPOSE 8080
 
 ENTRYPOINT [ "java", "-jar","/ocmascotas/ocmascotas.jar" ]
-
-#docker-compose up LO QUE DEBEMOS USAR EN LA TERMINAL PARA LEVANTAR NUESTRA APLICACION EN DOCKER 
